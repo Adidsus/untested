@@ -1,3 +1,3 @@
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Adidsus/Qquae/main/weebhook.lua?token=GHSAT0AAAAAACFV6SIER6T46QKW43M2WR7GZH7IUJA",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Adidsus/Qquae/main/loader.lua?token=GHSAT0AAAAAACFV6SIEXFDXII7KQXU2I7UCZH7IXIQ",true))()
 
